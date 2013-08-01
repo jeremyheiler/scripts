@@ -1,0 +1,3 @@
+#!/bin/bash
+
+ssh -t "$IRC_HOST_USER@$IRC_HOST" 'tmux a'
